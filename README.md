@@ -17,6 +17,7 @@ This application builds a quick professionally laid out readme for users to put 
 
 - JavaScript
 - Inquirer
+- File System
 
 ## Author
 
