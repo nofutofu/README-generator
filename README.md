@@ -1,3 +1,26 @@
-# Professional README Generator Starter Code
+# README generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Description
+
+This application builds a quick professionally laid out readme for users to put into their github repositories.
+
+## Links
+
+- [Demo Video]( 'Demo Video')
+
+## Screenshots
+
+![](/assets/screenshots/1.png ' ')
+![](/assets/screenshots/2.png ' ')
+
+## Built With
+
+- JavaScript
+- Inquirer
+
+## Author
+
+**Aaron Weis**
+
+- [Profile](https://github.com/nofutofu)
+- [Email](mailto:aaronrweis@gmail.com?subject=Hi 'Hi!')
