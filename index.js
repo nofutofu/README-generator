@@ -47,14 +47,13 @@ const questions = [
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, function (err) {
     if (err) throw err;
-    constructTeam();
   });
 }
 
 // TODO: Create a function to initialize app
 function init() {
   inquirer.prompt(questions).then(response => {
-    generateMarkdown(response);
+    writeToFile('./readme-dest/README.md', generateMarkdown(response));
   });
 }
 
