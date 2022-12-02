@@ -6,12 +6,11 @@ This application builds a quick professionally laid out readme for users to put 
 
 ## Links
 
-- [Demo Video]( 'Demo Video')
+- [Demo Video](https://watch.screencastify.com/v/zzrRnNYjL2ExnINIaceA 'Demo Video')
 
 ## Screenshots
 
-![](/assets/screenshots/1.png ' ')
-![](/assets/screenshots/2.png ' ')
+![Generated README](/assets/screenshots/1.png 'Generated README')
 
 ## Built With
 
